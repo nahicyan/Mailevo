@@ -2,7 +2,7 @@
 // apps/web/app/(dashboard)/page.tsx
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
-import { Mail, Users, TrendingUp, Eye, MousePointer, Send } from 'lucide-react'
+import { Mail, Users, TrendingUp, Eye, MousePointer, Send, Building } from 'lucide-react'
 
 export default function DashboardPage() {
   const stats = [
